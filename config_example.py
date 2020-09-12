@@ -1,0 +1,14 @@
+IMAGE_URL = 'https://127.0.0.1/cgi-bin/currentpic.cgi'
+USER = 'user'
+PASSWORD = 'password'
+MODEL_NAME = 'led_model'
+IMAGE_SIZE = (100,100)
+IMAGE_CROP_XY = (445, 280)
+MQTT_HOST = '127.0.0.1'
+MQTT_PORT = 1883
+MQTT_USER = 'user'
+MQTT_PASSWORD = 'password'
+MQTT_DEVICE_NAME = 'AC Switch Sensor'
+MQTT_DEVICE_ID = 'ac_sensor01'
+N_WAIT = 2
+SLEEP_TIMEOUT = 1
